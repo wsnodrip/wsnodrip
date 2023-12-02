@@ -1,6 +1,4 @@
-<div align="center">
-<img src="[https://desblogada.files.wordpress.co..." width="1500px](https://github.com/wsnodrip/wsnodrip/assets/151566265/12e4ba97-ab94-43a5-b207-ae33781d5183)" />
-</div>
+![Banner 3 David](https://github.com/wsnodrip/wsnodrip/assets/151566265/12e4ba97-ab94-43a5-b207-ae33781d5183)
 
 # 🗿🍷 About Me:
 ⚡ Cursando Engenharia Elétrica - UFMA<br>
