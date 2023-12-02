@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://desblogada.files.wordpress.co..." width="0px](https://github.com/wsnodrip/wsnodrip/assets/151566265/12e4ba97-ab94-43a5-b207-ae33781d5183)" />
+<img src="[https://desblogada.files.wordpress.co..." width="1500px](https://github.com/wsnodrip/wsnodrip/assets/151566265/12e4ba97-ab94-43a5-b207-ae33781d5183)" />
 </div>
 
 # 🗿🍷 About Me:
