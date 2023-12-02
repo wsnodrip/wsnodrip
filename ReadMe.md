@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌐 Vulgo matemático programador<br>🎨 Editor 3D<br>⚡ Cursando Engenharia Elétrica - UFMA
+⚡ Cursando Engenharia Elétrica - UFMA
+Sobre mim: Sou um jovem simpático, calmo e bem relacionado, com grande interesse de crescimento social, profissional e acadêmico. Certificado em curso de Departamento Pessoal e Auxiliar de Recursos Humanos. Já participei de provas da OBMEP(Olimpíada Brasileira de Matemática Das Escolas Públicas) com ganho de medalhas nos anos de 2017, 2018 e 2019, fazendo parte do PIC-OBMEP(Programa de Iniciação Científica Júnior), através do IMPA(Instituto de Matemática Pura e Aplicada), e certificações das mesmas durante o Ensino Médio(quando adentrei no Colégio Militar Tiradentes I). Participei também do programa de monitoria no Encontro Regional de Matemática Aplicada e Computacional(ERMAC - 2022.2) na UFMA. Hoje sou graduando em engenharia elétrica na UFMA. Tenho interesse em diversas áreas do conhecimento, sempre(dependendo da forma que é apresentada) uma dada área chama a atenção. Geralmente, áreas da tecnologia, física, e programação apresentam conteúdos que mais me atraem. Em especial a matemática que tenho bastante afinidade desde criança e principalmente por ela ser o código de linguagem para as demais áreas do conhecimento.
 
 
 ## 🌐 Socials:
