@@ -1,4 +1,4 @@
-![Banner 3 David](https://github.com/wsnodrip/wsnodrip/assets/151566265/12e4ba97-ab94-43a5-b207-ae33781d5183)
+![Banner David](https://github.com/wsnodrip/wsnodrip/assets/151566265/639640ce-4e00-4bae-81eb-c55c374f920c)
 
 # 🗿🍷 About Me:
 ⚡ Cursando Engenharia Elétrica - UFMA<br>
