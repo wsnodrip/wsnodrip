@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E440FF.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ws_nodrip)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vulgo_matematico) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%0101EEFF.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/david-willian-da-silva-castro-08a4732a2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%4169E1FF.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/david-willian-da-silva-castro-08a4732a2) 
 
 #1e90ff
 
