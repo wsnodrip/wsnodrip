@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E440FF.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ws_nodrip)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vulgo_matematico) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300599C.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/david-willian-da-silva-castro-08a4732a2) 
-[![Outlook](https://img.shields.io/badge/Outlook-%2300599C.svg?logo=davidwilliancastro&logoColor=white)](https://outlook.live.com/mail/0/) 
+[![Outlook](https://img.shields.io/badge/davidwilliancastro-%2300599C.svg?logo=Outlook&logoColor=white)](https://outlook.live.com/mail/0/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23E440FF.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
