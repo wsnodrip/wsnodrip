@@ -2,7 +2,7 @@
 # ⚡ Cursando Engenharia Elétrica - UFMA
 # 🗿🍷 Um pouco sobre mim:
   Certificado em curso de Departamento Pessoal e Auxiliar de Recursos Humanos. Já participei de provas da OBMEP(Olimpíada Brasileira de Matemática Das Escolas Públicas) com ganho de medalhas nos anos de 2017, 2018 e 2019, fazendo parte do PIC-OBMEP(Programa de Iniciação Científica Júnior), através do IMPA(Instituto de Matemática Pura e Aplicada), e certificações das mesmas durante o Ensino Médio(quando adentrei no Colégio Militar Tiradentes I).<br>
-  Participei também do programa de monitoria no Encontro Regional de Matemática Aplicada e Computacional(ERMAC - 2022.2) na UFMA. Hoje sou graduando em engenharia elétrica na UFMA, com grande interesse em áreas da tecnologia, programação e matemática. Em período de estudo da linguagem C e C++, dentro da grade curricular da faculdade, visando as próximas(Java e Phyton), e estudando por ora de forma independente as linguagens de programação C#, HTML5 e CSS.
+  Participei também do programa de monitoria no Encontro Regional de Matemática Aplicada e Computacional(ERMAC - 2022.2) na UFMA. Hoje sou graduando em engenharia elétrica na UFMA, com grande interesse em áreas da tecnologia, programação e matemática. Com grande afinidade em linguagem C, visando as próximas(Java e Phyton), e estudando por ora de forma independente as linguagens de programação C++, C#, HTML5 e CSS.
 
 # 💻 Stack Atual:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
