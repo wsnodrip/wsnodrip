@@ -1,4 +1,4 @@
-![Banner David](https://github.com/wsnodrip/wsnodrip/assets/151566265/639640ce-4e00-4bae-81eb-c55c374f920c)
+![Purple And Blue Neon Technology Company Linkedin Banner]
 # ⚡ Cursando Engenharia Elétrica - UFMA
 # 🗿🍷 Um pouco sobre mim:
   Futuro banner de uma carreira profissional mais voltada para essa área. Certificado em curso de Departamento Pessoal e Auxiliar de Recursos Humanos. Já participei de provas da OBMEP(Olimpíada Brasileira de Matemática Das Escolas Públicas) com ganho de medalhas nos anos de 2017, 2018 e 2019, fazendo parte do PIC-OBMEP(Programa de Iniciação Científica Júnior), através do IMPA(Instituto de Matemática Pura e Aplicada), e certificações das mesmas durante o Ensino Médio(quando adentrei no Colégio Militar Tiradentes I).<br>
